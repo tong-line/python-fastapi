@@ -1,0 +1,25 @@
+# --- Python 虚拟环境 ---
+.study/
+venv/
+.venv/
+env/
+env.bak/
+venv.bak/
+
+# --- Python 编译后的缓存 ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# --- VS Code / Cursor 配置 ---
+.vscode/
+.cursor/
+.history/
+
+# --- 运行日志与临时文件 ---
+*.log
+*.tmp
+.env
+.DS_Store
